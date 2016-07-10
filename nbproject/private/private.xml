@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/Kong/NetBeansProjects/InvestmentCalculator/test/investmentcalculator/controller/InvestmentCalculatorControllerTest.java</file>
+            <file>file:/Users/Kong/NetBeansProjects/InvestmentCalculator/src/investmentcalculator/controller/InvestmentCalculatorController.java</file>
+            <file>file:/Users/Kong/NetBeansProjects/InvestmentCalculator/src/investmentcalculator/controller/IInvestmentCalculatorController.java</file>
+            <file>file:/Users/Kong/NetBeansProjects/InvestmentCalculator/src/investmentcalculator/view/InvestmentCalculatorView.java</file>
+            <file>file:/Users/Kong/NetBeansProjects/InvestmentCalculator/test/investmentcalculator/controller/MockMonthlyReport.java</file>
+            <file>file:/Users/Kong/NetBeansProjects/InvestmentCalculator/test/investmentcalculator/controller/MockInvestmentCalculatorView.java</file>
+            <file>file:/Users/Kong/NetBeansProjects/InvestmentCalculator/src/investmentcalculator/InvestmentCalculator.java</file>
+            <file>file:/Users/Kong/NetBeansProjects/InvestmentCalculator/src/investmentcalculator/view/IInvestmentCalculatorView.java</file>
+            <file>file:/Users/Kong/NetBeansProjects/InvestmentCalculator/src/investmentcalculator/model/InvestmentItem.java</file>
+        </group>
+    </open-files>
+</project-private>
