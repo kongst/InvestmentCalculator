@@ -2,6 +2,7 @@
 
 1. Source code: InvestmentCalculator/src/investmentcalculator/
 2. Jar file: InvestmentCalculator/dist/InvestmentCalculator.jar
+3. Application screenshot: InvestmentCalculator/dist/Investment Calculator.pdf
 
 Assumption:
 
